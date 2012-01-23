@@ -1,0 +1,5 @@
+D:\Git\Share\TestProject\TestProject\bin\Debug\TestProject.exe
+D:\Git\Share\TestProject\TestProject\bin\Debug\TestProject.pdb
+D:\Git\Share\TestProject\TestProject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Git\Share\TestProject\TestProject\obj\x86\Debug\TestProject.exe
+D:\Git\Share\TestProject\TestProject\obj\x86\Debug\TestProject.pdb
